@@ -7,7 +7,7 @@ O curso ensina como construir uma API REST totalmente funcional usando:
  - Python
  - Django / Django-REST-Framework
  - Docker / Docker-Compose
- - Test Driven Development
+ - Desenvolvimento Orientado a Testes
 
 ## Instalação
 
