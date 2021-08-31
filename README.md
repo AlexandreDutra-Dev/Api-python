@@ -1,4 +1,4 @@
-Api Pytohon
+Api Python
 
 Código fonte do curso: Build a [Backend REST API with Python & Django - Advanced](http://londonapp.dev/django-python-advanced).
 
