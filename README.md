@@ -17,4 +17,4 @@ Para iniciar o projeto, execute
 docker-compose up
 ```
 
-A API estara rodadno em : [http://127.0.0.1:8000](http://127.0.0.1:8000).
+A API estara rodando em : [http://127.0.0.1:8000](http://127.0.0.1:8000).
